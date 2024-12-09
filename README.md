@@ -1,5 +1,10 @@
 # musan
 
+For further publications of `musan`, please go to
+https://github.com/audeering/datasets/tree/main/datasets/musan
+
+---
+
 This project holds code
 to convert the [musan] corpus of music, speech, and noise
 to [audformat]
